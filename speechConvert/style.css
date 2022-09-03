@@ -1,3 +1,14 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: rgb(92, 55, 225);
+  display: flex;
+  justify-content: center;
+  margin-top: 50%;
+  transform: translateY(-50%);
+}
+
 main{
   background-color: rgb(225, 225, 225);
   height: 500px;
