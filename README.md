@@ -68,3 +68,8 @@
 * api값을 불러오지 못했음.
 
 ---
+
+### ⭕ [디지털시계](https://github.com/hj9118/js-project.zip/tree/main/wordCounter)
+[코드출처](https://github.com/tilakjain123/Javascript-Projects/tree/main/Digital%20Clock)
+
+---
