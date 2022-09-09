@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link rel="stylesheet" href="style.css" />
+    <title>클립보드 문자 복사</title>
+  </head>
+  <body>
+    <h1>Copy in Clipboard with Javascript</h1>
+    <textarea id="to-copy" spellcheck="false">
+      Write something and copy it into your clipboard by clicking in the button below
+    </textarea>
+    <button id="copy" type="button">
+      Copy in Clipboard
+      <span class="copiedtext" aria-hidden="true">Copied</span>
+    </button>
+    <textarea
+      id="cleared"
+      placeholder="Paste your copied content here. Just to test..."
+    >
+    </textarea>
+    <script src="script.js"></script>
+  </body>
+</html>
