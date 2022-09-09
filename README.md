@@ -56,3 +56,9 @@
 * 글자수를 인식하지 못함 
 
 ---
+
+### ⭕ [클립보드 텍스트 복사](https://github.com/hj9118/js-project.zip/tree/main/copyClipboard)
+[코드출처](https://www.instagram.com/p/CiSD0UzLWi9/?utm_source=ig_web_copy_link)
+
+
+---
