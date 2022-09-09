@@ -62,3 +62,9 @@
 
 
 ---
+
+### ❌ [단어 검색기](https://github.com/hj9118/js-project.zip/tree/main/dictionaryApp)
+[코드출처](https://www.instagram.com/p/CiH-ES7LsCI/?utm_source=ig_web_copy_link)
+* api값을 불러오지 못했음.
+
+---
